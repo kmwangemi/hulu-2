@@ -2,7 +2,7 @@
 
 ### [Live Site](https://hulu-2-eight.vercel.app/?genre=fetchTrending)
 
-![Hulu 2.0](https://github.com/kmwangemi/covid-19-us-tracker/blob/main/public/hulu2.png)
+![Hulu 2.0](https://github.com/kmwangemi/hulu-2/blob/main/public/hulu2.png)
 
 ## Introduction
 This is a code repository for the hulu clone app for dispaying movies by categories. It mainly focuses on the front end part of the application. 
