@@ -1,4 +1,4 @@
-# COVID-19 US Tracker
+# Hulu 2.0 App
 
 ### [Live Site](https://hulu-2-eight.vercel.app/?genre=fetchTrending)
 
